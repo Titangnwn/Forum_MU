@@ -157,20 +157,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Nama Anda]**
-- NPM: [NPM Anda]
-- Email: [email@example.com]
-- GitHub: [@username](https://github.com/username)
+M Farizal T G
+- NPM: 714240043
+- 
+- 
 
 ## 🙏 Acknowledgments
 
 - Tugas Besar Network Programming 2025
-- Dosen Pengampu: [Nama Dosen]
+- Dosen Pengampu: M. Yusril Helmi Setyawan, S.Kom., M.Kom.,SFPC.
 - Manchester United Football Club
 
-## 📞 Support
-
-Jika ada pertanyaan atau issue, silakan buat [GitHub Issue](https://github.com/[username]/manchester-united-forum/issues).
 
 ---
 
